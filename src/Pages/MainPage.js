@@ -119,7 +119,6 @@ function MainPage(props) {
         });
     }
 
-
     const onClickButton = () => {
         if (filterDots.startDate &&
             filterDots.endDate &&
